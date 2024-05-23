@@ -1,0 +1,9 @@
+Later Tomorrow: 1. Discuss the HOME Work - Tribute Page
+2. Max-Width
+3. Block-size
+4. Grid
+5. Dynamic Menu
+6. scroll effect
+7. tabs
+8. grid view
+9. bootstrap
